@@ -8,7 +8,7 @@ it also provides a variety of <b>add-ons </b> and <b>pre-built apps</b>
 - Cisco Secure eStreamer Client Add-On Splunk
 - NetFlow and SNMP Analytics for Splunk
 
-Splunk's <b> visualization</b>tools helps organization quickly identify trends, anomalies, and potential problems. It's ML capabilities can be used to detect anomalies and predict future issues.
+Splunk's <i>visualization</i> tools helps organization quickly identify trends, anomalies, and potential problems. It's ML capabilities can be used to detect anomalies and predict future issues.
 Splunk operation:
 - Index Data
 - Search and Investigate
