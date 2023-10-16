@@ -20,8 +20,8 @@ Splunk operation:
  -    ingesting data from various logs, metrics and configuration files
  - storing it in a format that can be easily searched, correlated, and analyzed.
  - Indexing uses multi-step process 
-    - <b>Breaking</b> the data into events
-    - <b>Parsing</b> the events to extract fields
-    - <b>Normalizing</b> the fields into common format.
-    - <b>Storing</b> the normalized events in an index.
+    - <i>Breaking</i> the data into events
+    - <i>Parsing</i> the events to extract fields
+    - <i>Normalizing</i> the fields into common format.
+    - <i>Storing</i> the normalized events in an index.
 
