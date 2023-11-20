@@ -25,3 +25,4 @@ Splunk operation:
     - <i>Normalizing</i> the fields into common format.
     - <i>Storing</i> the normalized events in an index.
 
+end of statement
